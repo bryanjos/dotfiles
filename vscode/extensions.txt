@@ -1,0 +1,14 @@
+AndrsDC.base16-themes
+abadi199.elm-format
+dbaeumer.vscode-eslint
+donjayamanne.python
+esbenp.prettier-vscode
+freebroccolo.reasonml
+gerane.Theme-Ocean-Dark-Soda
+gerane.Theme-OceanicNext
+hackwaly.ocaml
+mhartington.theme-oceanicnext
+mjmcloug.vscode-elixir
+pgourlain.erlang
+rebornix.Ruby
+sbrink.elm
